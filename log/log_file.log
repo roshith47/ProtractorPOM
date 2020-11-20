@@ -1,0 +1,104 @@
+[2020-11-19T19:10:25.231] [DEBUG] default - Browser title: Super Calculator
+[2020-11-19T19:11:24.777] [DEBUG] file - Browser title: Super Calculator
+[2020-11-19T19:46:28.933] [DEBUG] default - Browser title: Super Calculator
+[2020-11-19T19:49:13.276] [DEBUG] default - Browser title: Super Calculator
+[2020-11-19T22:57:51.445] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-19T23:21:52.139] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-19T23:21:54.822] [DEBUG] default - Drop down size: 7
+[2020-11-19T23:21:54.877] [DEBUG] default - ---Customer Name---
+[2020-11-19T23:21:54.947] [DEBUG] default - Hermoine Granger
+[2020-11-19T23:21:55.001] [DEBUG] default - Harry Potter
+[2020-11-19T23:21:55.054] [DEBUG] default - Ron Weasly
+[2020-11-19T23:21:55.110] [DEBUG] default - Albus Dumbledore
+[2020-11-19T23:21:55.164] [DEBUG] default - Neville Longbottom
+[2020-11-19T23:21:55.219] [DEBUG] default - ABC XYZ
+[2020-11-19T23:21:55.220] [DEBUG] default - Item found 
+[2020-11-19T23:23:48.776] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-19T23:23:52.007] [DEBUG] default - Drop down size: 7
+[2020-11-19T23:23:52.082] [DEBUG] default - ---Customer Name---
+[2020-11-19T23:23:52.193] [DEBUG] default - Hermoine Granger
+[2020-11-19T23:23:52.260] [DEBUG] default - Harry Potter
+[2020-11-19T23:23:52.331] [DEBUG] default - Ron Weasly
+[2020-11-19T23:23:52.401] [DEBUG] default - Albus Dumbledore
+[2020-11-19T23:23:52.456] [DEBUG] default - Neville Longbottom
+[2020-11-19T23:23:52.516] [DEBUG] default - ABC XYZ
+[2020-11-19T23:23:52.518] [DEBUG] default - Item found 
+[2020-11-19T23:23:56.108] [DEBUG] default - Alert text: Account created successfully with account Number :1016
+[2020-11-20T00:07:08.135] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T00:07:11.014] [DEBUG] default - Drop down size: 7
+[2020-11-20T00:07:11.369] [DEBUG] default - ---Customer Name---
+[2020-11-20T00:07:11.458] [DEBUG] default - Hermoine Granger
+[2020-11-20T00:07:11.523] [DEBUG] default - Harry Potter
+[2020-11-20T00:07:11.595] [DEBUG] default - Ron Weasly
+[2020-11-20T00:07:11.675] [DEBUG] default - Albus Dumbledore
+[2020-11-20T00:07:11.748] [DEBUG] default - Neville Longbottom
+[2020-11-20T00:07:11.828] [DEBUG] default - ABC XYZ
+[2020-11-20T00:07:11.831] [DEBUG] default - Item found 
+[2020-11-20T00:07:15.473] [DEBUG] default - Alert text: Account created successfully with account Number :1016
+[2020-11-20T00:22:03.928] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T00:22:07.111] [DEBUG] default - Drop down size: 7
+[2020-11-20T00:22:07.196] [DEBUG] default - ---Customer Name---
+[2020-11-20T00:22:07.234] [DEBUG] default - Hermoine Granger
+[2020-11-20T00:22:07.282] [DEBUG] default - Harry Potter
+[2020-11-20T00:22:07.335] [DEBUG] default - Ron Weasly
+[2020-11-20T00:22:07.387] [DEBUG] default - Albus Dumbledore
+[2020-11-20T00:22:07.432] [DEBUG] default - Neville Longbottom
+[2020-11-20T00:22:07.479] [DEBUG] default - ABC XYZ
+[2020-11-20T00:22:07.480] [DEBUG] default - Item found 
+[2020-11-20T00:22:10.903] [DEBUG] default - Alert text: Account created successfully with account Number :1016
+[2020-11-20T00:23:53.342] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T00:23:56.177] [DEBUG] default - Drop down size: 7
+[2020-11-20T00:23:56.314] [DEBUG] default - ---Customer Name---
+[2020-11-20T00:23:56.383] [DEBUG] default - Hermoine Granger
+[2020-11-20T00:23:56.459] [DEBUG] default - Harry Potter
+[2020-11-20T00:23:56.530] [DEBUG] default - Ron Weasly
+[2020-11-20T00:23:56.597] [DEBUG] default - Albus Dumbledore
+[2020-11-20T00:23:56.656] [DEBUG] default - Neville Longbottom
+[2020-11-20T00:23:56.722] [DEBUG] default - ABC XYZ
+[2020-11-20T00:23:56.724] [DEBUG] default - Item found 
+[2020-11-20T00:24:00.333] [DEBUG] default - Alert text: Account created successfully with account Number :1016
+[2020-11-20T00:39:36.133] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T00:39:38.960] [DEBUG] default - Drop down size: 7
+[2020-11-20T00:39:39.047] [DEBUG] default - ---Customer Name---
+[2020-11-20T00:39:39.092] [DEBUG] default - Hermoine Granger
+[2020-11-20T00:39:39.169] [DEBUG] default - Harry Potter
+[2020-11-20T00:39:39.230] [DEBUG] default - Ron Weasly
+[2020-11-20T00:39:39.283] [DEBUG] default - Albus Dumbledore
+[2020-11-20T00:39:39.343] [DEBUG] default - Neville Longbottom
+[2020-11-20T00:39:39.399] [DEBUG] default - ABC XYZ
+[2020-11-20T00:39:39.400] [DEBUG] default - Item found 
+[2020-11-20T00:39:42.932] [DEBUG] default - Alert text: Account created successfully with account Number :1016
+[2020-11-20T00:42:25.909] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T00:42:28.831] [DEBUG] default - Drop down size: 7
+[2020-11-20T00:42:28.976] [DEBUG] default - ---Customer Name---
+[2020-11-20T00:42:29.078] [DEBUG] default - Hermoine Granger
+[2020-11-20T00:42:29.179] [DEBUG] default - Harry Potter
+[2020-11-20T00:42:29.237] [DEBUG] default - Ron Weasly
+[2020-11-20T00:42:29.303] [DEBUG] default - Albus Dumbledore
+[2020-11-20T00:42:29.372] [DEBUG] default - Neville Longbottom
+[2020-11-20T00:42:29.435] [DEBUG] default - ABC XYZ
+[2020-11-20T00:42:29.437] [DEBUG] default - Item found 
+[2020-11-20T00:42:33.113] [DEBUG] default - Alert text: Account created successfully with account Number :1016
+[2020-11-20T02:50:05.960] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T02:50:10.989] [DEBUG] default - Drop down size: 7
+[2020-11-20T02:50:11.126] [DEBUG] default - ---Customer Name---
+[2020-11-20T02:50:11.169] [DEBUG] default - Hermoine Granger
+[2020-11-20T02:50:11.228] [DEBUG] default - Harry Potter
+[2020-11-20T02:50:11.273] [DEBUG] default - Ron Weasly
+[2020-11-20T02:50:11.331] [DEBUG] default - Albus Dumbledore
+[2020-11-20T02:50:11.386] [DEBUG] default - Neville Longbottom
+[2020-11-20T02:50:11.441] [DEBUG] default - ABC XYZ
+[2020-11-20T02:50:11.442] [DEBUG] default - Item found 
+[2020-11-20T02:50:17.014] [DEBUG] default - Alert text: Account created successfully with account Number :1016
+[2020-11-20T14:01:50.958] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T14:01:53.034] [DEBUG] default - Drop down size: undefined
+[2020-11-20T14:11:04.125] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T14:11:06.236] [DEBUG] default - Drop down size: undefined
+[2020-11-20T14:13:43.727] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T14:13:45.827] [DEBUG] default - Drop down size: undefined
+[2020-11-20T14:15:42.045] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T14:15:44.110] [DEBUG] default - Drop down size: undefined
+[2020-11-20T14:20:41.049] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T14:20:43.138] [DEBUG] default - Drop down size: undefined
+[2020-11-20T14:21:42.001] [DEBUG] default - Alert text: Customer added successfully with customer id :6
+[2020-11-20T14:21:44.062] [DEBUG] default - Drop down size: undefined
